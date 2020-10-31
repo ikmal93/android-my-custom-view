@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidMyCustomView</string>
+    <string name="extending_view">Extending View</string>
+    <string name="extending_widget">Extending Widget</string>
 </resources>
